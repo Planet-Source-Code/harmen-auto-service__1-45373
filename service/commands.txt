@@ -1,0 +1,3 @@
+[command]
+command=get_Image
+shell=c:\winnt\notepad.exe
